@@ -1,0 +1,21 @@
+# Secrets and generated env
+.env
+.env.bak
+**/.env
+**/.env.bak
+
+# Keys
+*.pem
+*.ppk
+
+# Archives
+*.zip
+
+# Runtime config written by the containers
+.jitsi-meet-cfg/
+**/.jitsi-meet-cfg/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
